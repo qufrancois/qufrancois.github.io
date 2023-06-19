@@ -1,13 +1,13 @@
 ---
 layout: page
 permalink: /teaching/
-title: teachingu
+title: Teaching
 description:
 nav: true
 nav_order: 5
 ---
 
-## 2022-2023
+### 2022-2023
 
 - **Probabilités I** (L2 Dauphine-PSL). Teaching Assistant.
 
