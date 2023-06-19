@@ -1,15 +1,16 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
-subtitle: Université Paris-Dauphine PSL, CEREMADE, B223.
+subtitle: Université Paris-Dauphine PSL, CEREMADE. 
+subtitle: Mail: firstname.lastname@dauphine.psl.eu
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>B223</p>
+    <p>Office B223</p>
     <p>Place du Maréchal de Lattre de Tassigny</p>
     <p>75016, Paris</p>
 
