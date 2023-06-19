@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Université Paris-Dauphine PSL, CEREMADE. Mail: firstname.lastname@dauphine.psl.eu
+subtitle: Université Paris-Dauphine PSL, CEREMADE
 
 profile:
   align: right
