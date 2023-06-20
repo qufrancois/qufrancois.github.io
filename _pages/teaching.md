@@ -9,9 +9,9 @@ nav_order: 5
 
 ### 2022-2023
 
-- **Probabilités I** (L2 Dauphine-PSL). Teaching Assistant.
+- **Probabilités I** (L2 Dauphine). Teaching Assistant.
 
-- **Processus Discrets** (M1 Dauphine PSL). Teaching Assistant 
+- **Processus Discrets** (M1 Dauphine). Teaching Assistant. 
 
 
 
