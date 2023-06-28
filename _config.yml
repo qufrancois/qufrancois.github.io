@@ -2,17 +2,16 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Personal Webpage of Quentin FRANCOIS
 first_name: Quentin
 middle_name:
 last_name: François
 email: quentin.francois@dauphine.psl.eu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personnal web page of Quentin François
+description: Personal web page of Quentin François
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: # add your own keywords or leave empty
+keywords: Mathematics, Probability, Research
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
