@@ -8,20 +8,19 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
+
 <div class="Preprints">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-{% endfor %}
+  { % bibliography -- EGE_preprint %}
+
+%{%- for y in page.years %}
+ % <h2 class="year">{{y}}</h2>
+  %{% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+%{% endfor %}
 
 </div>
 
 <div class="Publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-{% endfor %}
 
 </div>
