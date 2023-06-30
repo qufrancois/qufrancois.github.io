@@ -3,24 +3,17 @@ layout: page
 permalink: /publications/
 title: Publications
 description: 
-years: 
+years: [2023]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-
 <div class="Preprints">
 
-{% bibliography --query @*[title=EGE_preprint] %}
-
-%{%- for y in page.years %}
- % <h2 class="year">{{y}}</h2>
-  %{% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-%{% endfor %}
-
-</div>
-
-<div class="Publications">
+{%- for y in page.years %}
+ 	<h2 class="year">{{y}}</h2>
+  {% bibliography -f papers -q @*[year={{y}}]* %}
+{% endfor %}
 
 
 </div>
