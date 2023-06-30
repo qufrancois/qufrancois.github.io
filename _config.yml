@@ -269,7 +269,7 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags wil
 scholar:
 
   last_name: [François]
-  first_name: [Quentin, F.]
+  first_name: [Quentin, Q.]
 
   style: apa
   locale: en
