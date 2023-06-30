@@ -11,7 +11,7 @@ nav_order: 1
 
 <div class="Preprints">
 
-  {  bibliography -- EGE_preprint }
+{% bibliography --query @*[title=EGE_preprint] %}
 
 %{%- for y in page.years %}
  % <h2 class="year">{{y}}</h2>
