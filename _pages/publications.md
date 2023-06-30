@@ -7,8 +7,8 @@ years:
 nav: true
 nav_order: 1
 ---
-%<!-- _pages/publications.md -->
-%<div class="Publications">
+<!-- _pages/publications.md -->
+<div class="Publications">
 
 %{%- for y in page.years %}
 % 	<h2 class="year">{{y}}</h2>
@@ -18,4 +18,4 @@ nav_order: 1
 %{% bibliography %}
 
 
-%</div>
+</div>
