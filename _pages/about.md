@@ -25,4 +25,4 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 
 **Office(s):** 
 - B223, Université Paris-Dauphine, Place du Maréchal de Lattre de Tassigny, 75016 Paris
-- C15, École Normale Supérieure, 45 rue d'Ulm, 75005 Paris
+- V3, École Normale Supérieure, 45 rue d'Ulm, 75005 Paris
