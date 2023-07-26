@@ -8,7 +8,7 @@ nav: true
 nav_order: 1
 ---
 
-## <p style="text-align: center;">Preprints</p>
+### Preprints
 ---
 
 <!-- _pages/publications.md -->
@@ -21,5 +21,5 @@ nav_order: 1
 
 </div>
 
-##Published papers
+### Published Papers
 ---
