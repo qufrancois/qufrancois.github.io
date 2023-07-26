@@ -8,7 +8,8 @@ nav: true
 nav_order: 1
 ---
 
-**Preprints:**
+## <p style="text-align: center;">Preprints</p>
+---
 
 <!-- _pages/publications.md -->
 <div class="Preprints">
@@ -19,3 +20,6 @@ nav_order: 1
 {% endfor %}
 
 </div>
+
+##Published papers
+---
