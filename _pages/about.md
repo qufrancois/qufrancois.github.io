@@ -32,13 +32,8 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa√
 ### Preprints:
 ---
 
-<!-- _pages/publications.md -->
-<div class="Preprints">
+  {% bibliography -f {{ site.scholar.bibliography }} -q @*[title={{Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.}}]* %}
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
-{% endfor %}
 
 </div>
 
