@@ -1,0 +1,25 @@
+%---
+%layout: page
+%permalink: /publications/
+%title: Publications
+%description: 
+%years: [2023]
+%nav: true
+%nav_order: 1
+%---
+
+%### Preprints
+%---
+
+%<!-- _pages/publications.md -->
+%<div class="Preprints">
+
+%{%- for y in page.years %}
+%  <h2 class="year">{{y}}</h2>
+%  {% bibliography -f {{ site.scholar.bibliography }} -q @*[year={{y}}]* %}
+%{% endfor %}
+
+%</div>
+
+%### Published Papers
+%---
