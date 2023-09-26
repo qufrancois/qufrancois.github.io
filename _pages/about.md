@@ -42,6 +42,12 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 ### Teaching: 
 ---
 
+#### 2023-2024
+
+- **Probabilités I** (L2 Dauphine). Teaching Assistant.
+
+- **Processus Discrets** (M1 Dauphine). Teaching Assistant. 
+
 #### 2022-2023
 
 - **Probabilités I** (L2 Dauphine). Teaching Assistant.
