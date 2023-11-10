@@ -39,6 +39,10 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 ### Talks:
 ---
 
+- **07/11/2023**: [Séminaire Probabilités et Statistiques](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/), Institut de Mathématiques de Marseille.
+
+- **25/10/2023**: Colloquium for PhD students at ENS Paris.
+
 - **21/09/2023**: [Séminaire Image, Optimisation et Probabilités](https://www.math.u-bordeaux.fr/imb/seminaire-images-optimisation-et-probabilites), Institut Mathématique de Bordeaux. 
 
 - **01/06/2023**: [Young Researcher Days](https://young-researcher-days.github.io/presentations/), Dauphine.
