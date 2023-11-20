@@ -39,6 +39,8 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 ### Talks:
 ---
 
+- **16/11/2023**: [Combinatoire Elliptique et au delà]{https://cargesecombinepic.wp.imt.fr}, Institut d’Études Scientifiques de Cargèse.
+
 - **07/11/2023**: [Séminaire Probabilités et Statistiques](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/), Institut de Mathématiques de Marseille.
 
 - **25/10/2023**: Colloquium for PhD students at ENS Paris.
