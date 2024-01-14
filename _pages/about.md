@@ -39,6 +39,8 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 ### Talks:
 ---
 
+- **12/01/2024**: [Séminaire MEGA](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), IHP Paris.
+
 - **14/12/2023**: [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), Dauphine.
 
 - **16/11/2023**: [Combinatoire Elliptique et au delà](https://cargesecombinepic.wp.imt.fr), Institut d’Études Scientifiques de Cargèse.
