@@ -36,8 +36,12 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa√
   
  %{% bibliography -f {{ site.scholar.bibliography }} -q @*[year=2024]* %} 
  
+ <div class="publications">
+
 {% bibliography %}
 
+</div>
+ 
 
 ### Talks:
 ---
