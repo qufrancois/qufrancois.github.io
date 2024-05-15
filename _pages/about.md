@@ -33,6 +33,8 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa√
 ---
 
   {% bibliography -f {{ site.scholar.bibliography }} -q @*[title=Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.]* %} (Submitted)
+  
+ {% bibliography -f {{ site.scholar.bibliography }} -q @*[year=2024]* %} 
 
 
 ### Talks:
