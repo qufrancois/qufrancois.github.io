@@ -41,6 +41,10 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa√
 ### Talks:
 ---
 
+-**12/06/2024**: [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), Calvados.
+
+-**16/05/2024**: [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles.
+
 - **12/01/2024**: [S√©minaire MEGA](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), IHP Paris.
 
 - **14/12/2023**: [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), Dauphine.
