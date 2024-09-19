@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Université Paris-Dauphine PSL, CEREMADE
+subtitle: Université Paris-Dauphine PSL, CEREMADE \&  École Normale Supérieure, DMA.
 
 profile:
   align: right
