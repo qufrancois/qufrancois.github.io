@@ -56,8 +56,7 @@ Laboratoire de Mathématiques de Versailles, Versailles, France.
 
 - [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), June 12, 2024, Calvados, France.
 
-- [Seminar Series of the Long Program: Geometry, Statistical Mechanics and Integrability]
-(https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
+- [Seminar Series of the Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
 May 16, 2024, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
 
 - [MEGA Seminar](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), January 12, 2024, IHP Paris, France.
