@@ -41,33 +41,46 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 ### Research Talks:
 ---
 
+- [Working Group: Point Processes and Applications](https://math.univ-lille.fr/agenda/groupes-de-travail), 
+Febuary 7, 2025, Laboratoire Paul-Painlevé, Lille, France. 
+
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), 
+December 19, 2024, Université Paris-Dauphine, Paris, France.
+
 - [Probability and Statistics seminar](https://lmv.math.cnrs.fr/seminaires/seminaires/), November 22, 2024, 
 Laboratoire de Mathématiques de Versailles, Versailles, France. 
 
-- **04/10/2024**: [Les Probas du Vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index), Jussieu.
+- [Les Probas du Vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index), October 4, 2024, Sorbonne Université, Paris, France.
 
-- **01/10/2024**: [Cinquième Rencontres ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/), Institut Denis Poisson, Tours. 
+- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/), October 1, 2024, Institut Denis Poisson, Tours, France. 
 
-- **12/06/2024**: [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), Calvados.
+- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), June 12, 2024, Calvados, France.
 
-- **16/05/2024**: [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), Seminar Series, Institute for Pure and Applied Mathematics, Los Angeles.
+- [Seminar Series of the Long Program: Geometry, Statistical Mechanics and Integrability]
+(https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
+May 16, 2024, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
 
-- **12/01/2024**: [Séminaire MEGA](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), IHP Paris.
+- [MEGA Seminar](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), January 12, 2024, IHP Paris, France.
 
-- **14/12/2023**: [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), Dauphine.
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html),  
+December 14, 2023, Université Paris-Dauphine, Paris, France.
 
-- **16/11/2023**: [Combinatoire Elliptique et au delà](https://cargesecombinepic.wp.imt.fr), Institut d’Études Scientifiques de Cargèse.
+- [Combinatoire Elliptique et au delà](https://cargesecombinepic.wp.imt.fr), November 16, 2023,
+Institut d’Études Scientifiques de Cargèse, Corse, France.
 
-- **07/11/2023**: [Séminaire Probabilités et Statistiques](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/), Institut de Mathématiques de Marseille.
+- [Probability and Statistics Seminar](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/), November 7, 2023,
+Institut de Mathématiques de Marseille, Marseille, France.
 
-- **25/10/2023**: Colloquium for PhD students at ENS Paris.
+- Colloquium for PhD students, October 25, 2023, École Normale Supérieure, Paris, France.
 
-- **21/09/2023**: [Séminaire Image, Optimisation et Probabilités](https://www.math.u-bordeaux.fr/imb/seminaire-images-optimisation-et-probabilites), Institut Mathématique de Bordeaux. 
+- [Image, Optimization and Probability Seminar](https://www.math.u-bordeaux.fr/imb/seminaire-images-optimisation-et-probabilites), 
+September 21, 2023, Institut Mathématique de Bordeaux, Bordeaux, France. 
 
-- **01/06/2023**: [Young Researcher Days](https://young-researcher-days.github.io/presentations/), Dauphine.
+- [Young Researcher Days](https://young-researcher-days.github.io/presentations/), June 1, 2023, 
+Université Paris-Dauphine, Paris, France.
 
-- **09/03/2023**: [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), Dauphine.
-
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), March 3, 2023, 
+Université Paris-Dauphine, Paris, France.
 
 
 ### Conference Attendance:
@@ -75,7 +88,8 @@ Laboratoire de Mathématiques de Versailles, Versailles, France.
 
 #### 2025
 
-- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications), January 28-29, Collège de France, Paris, France.
+- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications), 
+January 28-29, Collège de France, Paris, France.
 
 
 #### 2024
@@ -101,20 +115,26 @@ March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles,
 - [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), May 22-26, Angers, France. 
 
 
-### Teaching: 
+### Teaching and Supervision: 
 ---
+
+#### 2024-2025
+
+- **Master Thesis supervision:** Limit Theorems for large random matrices, Université Paris-Dauphine. 
+
+- **Introduction aux Probabilités** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
 
 #### 2023-2024
 
-- **Probabilités I** (L2 Dauphine). Teaching Assistant.
+- **Probabilités I** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
 
-- **Processus Discrets** (M1 Dauphine). Teaching Assistant. 
+- **Processus Discrets** (Master course, Université Paris-Dauphine) Teaching Assistant. 
 
 #### 2022-2023
 
-- **Probabilités I** (L2 Dauphine). Teaching Assistant.
+- **Probabilités I** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
 
-- **Processus Discrets** (M1 Dauphine). Teaching Assistant. 
+- **Processus Discrets** (Master course, Université Paris-Dauphine). Teaching Assistant. 
 
 
 
