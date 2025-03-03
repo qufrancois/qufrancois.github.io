@@ -38,8 +38,11 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 
  
 
-### Talks:
+### Research Talks:
 ---
+
+- [Probability and Statistics seminar](https://lmv.math.cnrs.fr/seminaires/seminaires/), November 22, 2024, 
+Laboratoire de Mathématiques de Versailles, Versailles, France. 
 
 - **04/10/2024**: [Les Probas du Vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index), Jussieu.
 
@@ -65,6 +68,37 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 
 - **09/03/2023**: [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), Dauphine.
 
+
+
+### Conference Attendance:
+---
+
+#### 2025
+
+- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications), January 28-29, Collège de France, Paris, France.
+
+
+#### 2024
+
+- [Algebraic Aspects of Random Matricesi](https://conferences.cirm-math.fr/3052.html), October 7-11, CIRM, Luminy, France. 
+
+- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/), September 30 - October 2, Institut Denis Poisson, Tours, France. 
+
+- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), June 10-12, Calvados, France.
+
+- [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
+March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
+
+- [Fourth meeting of ANR CORTIPOM](https://tarrago.perso.math.cnrs.fr/Quatrieme_rencontre_ANR_Cortipom.html), January 18-19, Sorbonne Université, Paris, France. 
+
+
+#### 2023
+
+- [Combinatoire elliptique et au delà !](https://cargesecombinepic.wp.imt.fr), November 13-17, Institut d’Études Scientifiques de Cargèse, Corse, France. 
+
+- [CORTIPOM project workshop](https://conferences.cirm-math.fr/2932.html), July 10-14, CIRM, Luminy, France. 
+
+- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), May 22-26, Angers, France. 
 
 
 ### Teaching: 
