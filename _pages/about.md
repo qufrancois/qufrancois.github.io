@@ -33,32 +33,29 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa√
 ---
 
 
-#### Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble. 
+##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
 
 Joint work with [David Garc√¨a-Zelada](https://davidgarciaz.wixsite.com/math)
 
 [ArXiv link](http://arxiv.org/abs/2306.16720) 
 
 
-#### Positive formula for the product of conjugacy classes on the unitary group.
+##### **Positive formula for the product of conjugacy classes on the unitary group.**
 
 Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 [ArXiv link](https://arxiv.org/abs/2405.06723)
 
 
-#### Enumeration of crossings in two-step puzzles.
+##### **Enumeration of crossings in two-step puzzles.**
 
 [ArXiv link](http://arxiv.org/abs/2411.08412)
 
 
-#### Characteristic polynomial of generalized Ewens random permutations.
+##### **Characteristic polynomial of generalized Ewens random permutations.**
 
 [ArXiv link](http://arxiv.org/abs/2504.01484)
 
-  
-%{% bibliography %}
- 
 
 ### Research Talks:
 ---
