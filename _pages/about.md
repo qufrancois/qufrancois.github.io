@@ -32,7 +32,7 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
  <br>
  <br>
 
-### Papers:
+### Papers
 ---
 
 
@@ -62,10 +62,11 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
  <br>
  <br>
 
-### Research Talks:
+### Research Talks
 ---
 
-- [Working Group: Point Processes and Applications](https://math.univ-lille.fr/agenda/groupes-de-travail), 
+- [Working Group: Point Processes and Applications](https://math.univ-lille.fr/agenda/groupes-de-travail)
+ <br>
 Febuary 7, 2025, Laboratoire Paul-Painlevé, Lille, France. 
 
 - [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), 
@@ -108,7 +109,7 @@ Université Paris-Dauphine, Paris, France.
  <br>
  <br>
 
-### Conference Attendance:
+### Conference Attendance
 ---
 
 #### 2025
@@ -142,7 +143,7 @@ March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles,
  <br>
  <br>
 
-### Teaching and Supervision: 
+### Teaching and Supervision
 ---
 
 #### 2024-2025
