@@ -56,6 +56,8 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 [ArXiv link](http://arxiv.org/abs/2504.01484)
 
+ <br>
+ <br>
 
 ### Research Talks:
 ---
