@@ -29,6 +29,9 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 
 ---
 
+ <br>
+ <br>
+
 ### Papers:
 ---
 
@@ -102,6 +105,8 @@ Université Paris-Dauphine, Paris, France.
 - [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), March 3, 2023, 
 Université Paris-Dauphine, Paris, France.
 
+ <br>
+ <br>
 
 ### Conference Attendance:
 ---
@@ -134,6 +139,8 @@ March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles,
 
 - [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), May 22-26, Angers, France. 
 
+ <br>
+ <br>
 
 ### Teaching and Supervision: 
 ---
