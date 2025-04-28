@@ -67,44 +67,63 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 - [Working Group: Point Processes and Applications](https://math.univ-lille.fr/agenda/groupes-de-travail)
  <br>
-Febuary 7, 2025, Laboratoire Paul-Painlevé, Lille, France. 
+Febuary 7, 2025, Laboratoire Paul-Painlevé, Lille, France
 
-- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), 
-December 19, 2024, Université Paris-Dauphine, Paris, France.
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html)
+ <br>
+December 19, 2024, Université Paris-Dauphine, Paris, France
 
-- [Probability and Statistics seminar](https://lmv.math.cnrs.fr/seminaires/seminaires/), November 22, 2024, 
-Laboratoire de Mathématiques de Versailles, Versailles, France. 
+- [Probability and Statistics seminar](https://lmv.math.cnrs.fr/seminaires/seminaires/) 
+ <br>
+November 22, 2024, 
+Laboratoire de Mathématiques de Versailles, Versailles, France
 
-- [Les Probas du Vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index), October 4, 2024, Sorbonne Université, Paris, France.
+- [Les Probas du Vendredi](https://www.lpsm.paris/seminaires/probasduvendredi/index)
+ <br>
+ October 4, 2024, Sorbonne Université, Paris, France
 
-- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/), October 1, 2024, Institut Denis Poisson, Tours, France. 
+- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/)
+ <br>
+ October 1, 2024, Institut Denis Poisson, Tours, France
 
-- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), June 12, 2024, Calvados, France.
+- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/)
+ <br>
+ June 12, 2024, Calvados, France
 
-- [Seminar Series of the Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
-May 16, 2024, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
+- [Seminar Series of the Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/)
+ <br> 
+May 16, 2024, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA
 
-- [MEGA Seminar](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire), January 12, 2024, IHP Paris, France.
+- [MEGA Seminar](https://www.ceremade.dauphine.fr/dokuwiki/mega:seminaire)
+ <br>
+ January 12, 2024, IHP Paris, France
 
-- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html),  
-December 14, 2023, Université Paris-Dauphine, Paris, France.
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html)
+ <br>
+December 14, 2023, Université Paris-Dauphine, Paris, France
 
-- [Combinatoire Elliptique et au delà](https://cargesecombinepic.wp.imt.fr), November 16, 2023,
-Institut d’Études Scientifiques de Cargèse, Corse, France.
+- [Combinatoire Elliptique et au delà](https://cargesecombinepic.wp.imt.fr)
+ <br>
+November 16, 2023, Institut d’Études Scientifiques de Cargèse, Corse, France.
 
-- [Probability and Statistics Seminar](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/), November 7, 2023,
+- [Probability and Statistics Seminar](https://www.i2m.univ-amu.fr/agenda/seminaires/probabilites-et-statistique/)
+ <br>
+ November 7, 2023,
 Institut de Mathématiques de Marseille, Marseille, France.
 
 - Colloquium for PhD students, October 25, 2023, École Normale Supérieure, Paris, France.
 
-- [Image, Optimization and Probability Seminar](https://www.math.u-bordeaux.fr/imb/seminaire-images-optimisation-et-probabilites), 
+- [Image, Optimization and Probability Seminar](https://www.math.u-bordeaux.fr/imb/seminaire-images-optimisation-et-probabilites)
+ <br>
 September 21, 2023, Institut Mathématique de Bordeaux, Bordeaux, France. 
 
-- [Young Researcher Days](https://young-researcher-days.github.io/presentations/), June 1, 2023, 
-Université Paris-Dauphine, Paris, France.
+- [Young Researcher Days](https://young-researcher-days.github.io/presentations/)
+ <br>
+ June 1, 2023, Université Paris-Dauphine, Paris, France.
 
-- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html), March 3, 2023, 
-Université Paris-Dauphine, Paris, France.
+- [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html)
+ <br>
+ March 3, 2023, Université Paris-Dauphine, Paris, France.
 
  <br>
  <br>
@@ -114,31 +133,47 @@ Université Paris-Dauphine, Paris, France.
 
 #### 2025
 
-- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications), 
+- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications)
+ <br>
 January 28-29, Collège de France, Paris, France.
 
 
 #### 2024
 
-- [Algebraic Aspects of Random Matricesi](https://conferences.cirm-math.fr/3052.html), October 7-11, CIRM, Luminy, France. 
+- [Algebraic Aspects of Random Matricesi](https://conferences.cirm-math.fr/3052.html)
+ <br>
+ October 7-11, CIRM, Luminy, France. 
 
-- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/), September 30 - October 2, Institut Denis Poisson, Tours, France. 
+- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/)
+ <br>
+ September 30 - October 2, Institut Denis Poisson, Tours, France. 
 
-- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/), June 10-12, Calvados, France.
+- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/)
+ <br>
+ June 10-12, Calvados, France.
 
-- [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/), 
+- [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/)
+ <br> 
 March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
 
-- [Fourth meeting of ANR CORTIPOM](https://tarrago.perso.math.cnrs.fr/Quatrieme_rencontre_ANR_Cortipom.html), January 18-19, Sorbonne Université, Paris, France. 
+- [Fourth meeting of ANR CORTIPOM](https://tarrago.perso.math.cnrs.fr/Quatrieme_rencontre_ANR_Cortipom.html)
+ <br>
+ January 18-19, Sorbonne Université, Paris, France. 
 
 
 #### 2023
 
-- [Combinatoire elliptique et au delà !](https://cargesecombinepic.wp.imt.fr), November 13-17, Institut d’Études Scientifiques de Cargèse, Corse, France. 
+- [Combinatoire elliptique et au delà !](https://cargesecombinepic.wp.imt.fr)
+ <br>
+ November 13-17, Institut d’Études Scientifiques de Cargèse, Corse, France. 
 
-- [CORTIPOM project workshop](https://conferences.cirm-math.fr/2932.html), July 10-14, CIRM, Luminy, France. 
+- [CORTIPOM project workshop](https://conferences.cirm-math.fr/2932.html)
+ <br>
+ July 10-14, CIRM, Luminy, France. 
 
-- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/), May 22-26, Angers, France. 
+- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/)
+ <br>
+ May 22-26, Angers, France. 
 
  <br>
  <br>
