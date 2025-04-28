@@ -102,7 +102,7 @@ May 16, 2024, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA
  <br>
  January 12, 2024, IHP Paris, France
  
- #### 2023
+#### 2023
 
 - [Young Researcher Seminar](https://www.ceremade.dauphine.fr/en/seminars/young-researcher-seminar.html)
  <br>
