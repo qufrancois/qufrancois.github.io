@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student in Probability theory under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). I am mostly interested in high dimensional phenomenas arising from random matrix theory and exactly solvable models. 
+PhD student in Probability theory under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). I am interested in high dimensional phenomenas arising from random matrix theory and exactly solvable models. 
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
@@ -27,6 +27,10 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 - B223, Université Paris-Dauphine, Place du Maréchal de Lattre de Tassigny, 75016 Paris
 - V3, École Normale Supérieure, 45 rue d'Ulm, 75005 Paris
 
+ <br>
+
+[Google Scholar](https://scholar.google.com/citations?user=Q4Dc3gsAAAAJ&hl=fr)
+
 ---
 
  <br>
@@ -34,6 +38,12 @@ I am a PhD student in Probability theory under the supervision of [Djalil Chafa�
 
 ### Papers
 ---
+
+##### **Power grid segmentation for local topological controllers.** 
+
+Joint work with Noureddine Henka, Sami Tazi, Manuel Ruiz, Patrick Panciatici
+
+Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.epsr.2022.108302) 
 
 
 ##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
