@@ -39,18 +39,14 @@ PhD student in Probability theory under the supervision of [Djalil Chafaï](http
 ### Papers
 ---
 
-##### **Power grid segmentation for local topological controllers.** 
+##### **Characteristic polynomial of generalized Ewens random permutations.**
 
-Joint work with Noureddine Henka, Sami Tazi, Manuel Ruiz, Patrick Panciatici
-
-Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.epsr.2022.108302) 
+[ArXiv link](http://arxiv.org/abs/2504.01484)
 
 
-##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
+##### **Enumeration of crossings in two-step puzzles.**
 
-Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
-
-[ArXiv link](http://arxiv.org/abs/2306.16720) 
+[ArXiv link](http://arxiv.org/abs/2411.08412)
 
 
 ##### **Positive formula for the product of conjugacy classes on the unitary group.**
@@ -60,14 +56,19 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 [ArXiv link](https://arxiv.org/abs/2405.06723)
 
 
-##### **Enumeration of crossings in two-step puzzles.**
+##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
 
-[ArXiv link](http://arxiv.org/abs/2411.08412)
+Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
+
+[ArXiv link](http://arxiv.org/abs/2306.16720) 
 
 
-##### **Characteristic polynomial of generalized Ewens random permutations.**
+##### **Power grid segmentation for local topological controllers.** 
 
-[ArXiv link](http://arxiv.org/abs/2504.01484)
+Joint work with Noureddine Henka, Sami Tazi, Manuel Ruiz, Patrick Panciatici
+
+Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.epsr.2022.108302) 
+
 
  <br>
  <br>
