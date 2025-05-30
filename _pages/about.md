@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-PhD student in Probability theory under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). I am interested in high dimensional phenomenas arising from random matrix theory and exactly solvable models. 
+PhD student in Probability theory under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). I am interested in high dimensional phenomena arising from random matrix theory and exactly solvable models. 
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
