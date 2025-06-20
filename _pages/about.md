@@ -145,55 +145,6 @@ September 21, 2023, Institut Mathématique de Bordeaux, Bordeaux, France.
  <br>
  <br>
 
-### Conference Attendance
----
-
-#### 2025
-
-- [Géométries aléatoires et applications](https://www.college-de-france.fr/fr/agenda/colloque/geometries-aleatoires-et-applications)
- <br>
-January 28-29, Collège de France, Paris, France.
-
-
-#### 2024
-
-- [Algebraic Aspects of Random Matricesi](https://conferences.cirm-math.fr/3052.html)
- <br>
- October 7-11, CIRM, Luminy, France. 
-
-- [Fifth meeting of ANR CORTIPOM](https://idpoisson.fr/rostam/post/cortipom_automne_24/)
- <br>
- September 30 - October 2, Institut Denis Poisson, Tours, France. 
-
-- [Young Researcher Days](https://sites.google.com/view/young-researchers-days/)
- <br>
- June 10-12, Calvados, France.
-
-- [Long Program: Geometry, Statistical Mechanics and Integrability](https://www.ipam.ucla.edu/programs/long-programs/geometry-statistical-mechanics-and-integrability/)
- <br> 
-March 11 - May 30, Institute for Pure and Applied Mathematics UCLA, Los Angeles, USA.
-
-- [Fourth meeting of ANR CORTIPOM](https://tarrago.perso.math.cnrs.fr/Quatrieme_rencontre_ANR_Cortipom.html)
- <br>
- January 18-19, Sorbonne Université, Paris, France. 
-
-
-#### 2023
-
-- [Combinatoire elliptique et au delà !](https://cargesecombinepic.wp.imt.fr)
- <br>
- November 13-17, Institut d’Études Scientifiques de Cargèse, Corse, France. 
-
-- [CORTIPOM project workshop](https://conferences.cirm-math.fr/2932.html)
- <br>
- July 10-14, CIRM, Luminy, France. 
-
-- [Third PIICQ Workshop](https://piicq.pages.math.cnrs.fr/PIICQW3/)
- <br>
- May 22-26, Angers, France. 
-
- <br>
- <br>
 
 ### Teaching and Supervision
 ---
