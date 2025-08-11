@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Université Paris-Dauphine PSL, CEREMADE & École Normale Supérieure, DMA.
+subtitle: Université de Lille & Laboratoire CRIStAL.
 
 profile:
   align: right
@@ -25,9 +25,11 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 
 **Contact:** firstname.lastname@dauphine.psl.eu
 
+<!--
 **Office(s):** 
 - B223, Université Paris-Dauphine, Place du Maréchal de Lattre de Tassigny, 75016 Paris
 - V3, École Normale Supérieure, 45 rue d'Ulm, 75005 Paris
+-->
 
  <br>
 
