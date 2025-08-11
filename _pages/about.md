@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Université de Lille & Laboratoire CRIStAL.
+subtitle: Université de Lille, Laboratoire Paul-Painlevé  & Laboratoire CRIStAL.
 
 profile:
   align: right
