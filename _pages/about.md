@@ -17,7 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-PhD student in Probability theory under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). I am interested in high dimensional phenomena arising from random matrix theory and exactly solvable models. 
+Postdoctoral researcher in Probability theory under the supervision of [Raphaël Butez](https://sites.google.com/site/rabutez/) and [Rémi Bardenet](https://rbardenet.github.io). I am interested in high dimensional phenomena arising from random matrix theory and exactly solvable models. 
+
+I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). You can find the manuscript [here](assets/pdf/these_website.pdf).
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
