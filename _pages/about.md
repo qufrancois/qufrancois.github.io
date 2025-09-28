@@ -23,12 +23,11 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
-**Contact:** firstname.lastname@dauphine.psl.eu
+**Contact:**  quentin.francois@univ-lille.fr
 
 <!--
-**Office(s):** 
-- B223, Université Paris-Dauphine, Place du Maréchal de Lattre de Tassigny, 75016 Paris
-- V3, École Normale Supérieure, 45 rue d'Ulm, 75005 Paris
+**Office:** 
+- I.S26 Université de Lille, Bâtiment ESPRIT
 -->
 
  <br>
