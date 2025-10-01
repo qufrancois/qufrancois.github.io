@@ -81,6 +81,14 @@ Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.eps
 
 #### 2025
 
+- [Probability Seminar](https://indico.math.cnrs.fr/category/470/)
+ <br>
+September 30, 2025, Institut de Mathématiques de Toulouse, Toulouse, France
+
+- [Journées de Probabilités 2025](https://www.i2m.univ-amu.fr/journee-de-proba-2025/)
+ <br>
+June 30, 2025, Institut Mathématiques de Marseille, Marseille, France
+
 - [Working Group: Point Processes and Applications](https://math.univ-lille.fr/agenda/groupes-de-travail)
  <br>
 Febuary 7, 2025, Laboratoire Paul-Painlevé, Lille, France
