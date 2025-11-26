@@ -81,7 +81,7 @@ Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.eps
 
 #### 2025
 
-- [Mathematical statistics seminar]https://www.kth.se/en/2.82512/kalender/matstat)
+- [Mathematical statistics seminar](https://www.kth.se/en/2.82512/kalender/matstat)
  <br>
 November 18, 2025, KTH, Stockholm, Sweden
 
