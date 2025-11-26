@@ -81,6 +81,10 @@ Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.eps
 
 #### 2025
 
+- [Mathematical statistics seminar](https://www.kth.se/en/2.82512/kalender/matstat/quentin-francois-a-positive-formula-for-the-product-of-conjugacy-classes-on-the-unitary-group-1.1440229?date=2025-11-18&orgdate=2025-08-02&length=1&orglength=152)
+ <br>
+November 18, 2025, KTH, Stockholm, Sweden
+
 - [Probability Seminar](https://indico.math.cnrs.fr/category/470/)
  <br>
 September 30, 2025, Institut de Mathématiques de Toulouse, Toulouse, France
