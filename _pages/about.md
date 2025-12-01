@@ -83,7 +83,7 @@ Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.eps
 
 - Mathematical statistics seminar
  <br>
-November 18, 2025, KTH, Stockholm, Sweden
+November 18, 2025, KTH, Stockholm, Sweden 
 
 - [Probability Seminar](https://indico.math.cnrs.fr/category/470/)
  <br>
