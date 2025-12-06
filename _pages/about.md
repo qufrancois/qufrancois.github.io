@@ -44,7 +44,7 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa√
 
 ##### **Characteristic polynomial of generalized Ewens random permutations.**
 
-[ArXiv link](http://arxiv.org/abs/2504.01484)
+Published in *Electronic Communications in Probability*  [DOI](https://doi.org/10.1214/25-ECP746)
 
 
 ##### **Enumeration of crossings in two-step puzzles.**
