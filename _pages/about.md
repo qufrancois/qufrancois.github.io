@@ -86,9 +86,23 @@ Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.eps
 ### Research Talks
 ---
 
+#### 2026
+
+- [Working group : Point processes and applications](https://math.univ-lille.fr/agenda/groupes-de-travail)
+ <br>
+January 27, 2026, Laboratoire Paul-Painlevé, Lille, France
+
+- [Weekly Seminar “SuPerGRandMa”](https://docs.google.com/document/d/e/2PACX-1vQVPOVu9_m0ZcUk9QBKxGeH7SrgwWmxFwzepyrQceCkKG8T1W3nx_oOVlIMSS71MhiVqn7ui6I0Nxa4/pub)
+ <br>
+January 19, 2026, Laboratoire de Mathématiques d'Orsay, Orsay, France
+
+- [Probability Seminar](https://www.i2m.univ-amu.fr/evenements/tba-266/)
+ <br>
+January 13, 2026, Institut Mathématiques de Marseille, Marseille, France
+
 #### 2025
 
-- Mathematical statistics seminar
+- [Mathematical statistics seminar](https://www.math-stockholm.se/en/kalender/matstat)
  <br>
 November 18, 2025, KTH, Stockholm, Sweden 
 
