@@ -42,6 +42,13 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 ### Papers
 ---
 
+##### **A positive formula for volumes of moduli spaces of flat unitary connections on compact surfaces.**
+
+Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index) and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)  
+
+[ArXiv](https://arxiv.org/abs/2603.20517)
+
+
 ##### **Characteristic polynomial of generalized Ewens random permutations.**
 
 Published in *Electronic Communications in Probability*  [DOI](https://doi.org/10.1214/25-ECP746)
@@ -49,21 +56,21 @@ Published in *Electronic Communications in Probability*  [DOI](https://doi.org/1
 
 ##### **Enumeration of crossings in two-step puzzles.**
 
-[ArXiv link](http://arxiv.org/abs/2411.08412)
+[ArXiv](http://arxiv.org/abs/2411.08412)
 
 
 ##### **Positive formula for the product of conjugacy classes on the unitary group.**
 
 Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
-[ArXiv link](https://arxiv.org/abs/2405.06723)
+[ArXiv](https://arxiv.org/abs/2405.06723)
 
 
 ##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
 
 Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
-[ArXiv link](http://arxiv.org/abs/2306.16720) 
+[ArXiv](http://arxiv.org/abs/2306.16720) 
 
 
 ##### **Power grid segmentation for local topological controllers.** 
