@@ -49,14 +49,17 @@ Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [
 [ArXiv](https://arxiv.org/abs/2603.20517)
 
 
+
 ##### **Characteristic polynomial of generalized Ewens random permutations.**
 
 Published in *Electronic Communications in Probability*  [DOI](https://doi.org/10.1214/25-ECP746)
 
 
+
 ##### **Enumeration of crossings in two-step puzzles.**
 
 [ArXiv](http://arxiv.org/abs/2411.08412)
+
 
 
 ##### **Positive formula for the product of conjugacy classes on the unitary group.**
@@ -66,11 +69,13 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 [ArXiv](https://arxiv.org/abs/2405.06723)
 
 
+
 ##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
 
 Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
 [ArXiv](http://arxiv.org/abs/2306.16720) -- minor revision in *Electronic Journal of Probability*
+
 
 
 ##### **Power grid segmentation for local topological controllers.** 
