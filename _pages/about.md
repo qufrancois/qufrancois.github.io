@@ -48,7 +48,7 @@ Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [
 
 [ArXiv](https://arxiv.org/abs/2603.20517)
 
-
+ <br>
 
 ##### **Characteristic polynomial of generalized Ewens random permutations.**
 
