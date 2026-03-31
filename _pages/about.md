@@ -70,7 +70,7 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
-[ArXiv](http://arxiv.org/abs/2306.16720) 
+[ArXiv](http://arxiv.org/abs/2306.16720) -- minor revision in *Electronic Journal of Probability*
 
 
 ##### **Power grid segmentation for local topological controllers.** 
