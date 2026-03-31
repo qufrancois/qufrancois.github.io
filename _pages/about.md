@@ -54,13 +54,13 @@ Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [
 
 Published in *Electronic Communications in Probability*  [DOI](https://doi.org/10.1214/25-ECP746)
 
-
+ <br>
 
 ##### **Enumeration of crossings in two-step puzzles.**
 
 [ArXiv](http://arxiv.org/abs/2411.08412)
 
-
+ <br>
 
 ##### **Positive formula for the product of conjugacy classes on the unitary group.**
 
@@ -68,7 +68,7 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 [ArXiv](https://arxiv.org/abs/2405.06723)
 
-
+ <br>
 
 ##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
 
@@ -76,7 +76,7 @@ Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
 [ArXiv](http://arxiv.org/abs/2306.16720) -- minor revision in *Electronic Journal of Probability*
 
-
+ <br>
 
 ##### **Power grid segmentation for local topological controllers.** 
 
