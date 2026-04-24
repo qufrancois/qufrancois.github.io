@@ -52,7 +52,7 @@ Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [
 
 ##### **Characteristic polynomial of generalized Ewens random permutations.**
 
-Published in *Electronic Communications in Probability*  [DOI](https://doi.org/10.1214/25-ECP746)
+Published in **Electronic Communications in Probability**  [DOI](https://doi.org/10.1214/25-ECP746)
 
  <br>
 
@@ -74,7 +74,7 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
-[ArXiv](http://arxiv.org/abs/2306.16720) -- minor revision in *Electronic Journal of Probability*
+[ArXiv](http://arxiv.org/abs/2306.16720) -- Accepted in **The Electronic Journal of Probability**
 
  <br>
 
