@@ -74,7 +74,7 @@ Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
 
 Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
 
-[ArXiv](http://arxiv.org/abs/2306.16720) -- Accepted in **The Electronic Journal of Probability**
+Published in **The Electronic Journal of Probability**  [DOI](https://doi.org/10.1214/26-EJP1533)
 
  <br>
 
