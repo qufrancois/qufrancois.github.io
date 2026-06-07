@@ -41,50 +41,39 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 
 ### Papers
 ---
+## Publications
 
-##### **A positive formula for volumes of moduli spaces of flat unitary connections on compact surfaces.**
+### Preprints
 
-Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index) and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)  
+**A positive formula for volumes of moduli spaces of flat unitary connections on compact surfaces**
+: with [David García-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index), and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr).  
+  *arXiv:2603.20517* (2026).  
+  [arXiv](https://arxiv.org/abs/2603.20517)
 
-[ArXiv](https://arxiv.org/abs/2603.20517)
+**Enumeration of crossings in two-step puzzles**
+: *arXiv:2411.08412* (2024).  
+  [arXiv](https://arxiv.org/abs/2411.08412)
 
- <br>
+**Positive formula for the product of conjugacy classes on the unitary group**
+: with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr).  
+  *arXiv:2405.06723* (2024).  
+  [arXiv](https://arxiv.org/abs/2405.06723)
 
-##### **Characteristic polynomial of generalized Ewens random permutations.**
+### Published papers
 
-Published in **Electronic Communications in Probability**  [DOI](https://doi.org/10.1214/25-ECP746)
+**Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble**
+: with [David García-Zelada](https://davidgarciaz.wixsite.com/math).  
+  *Electronic Journal of Probability* (2026).  
+  [DOI](https://doi.org/10.1214/26-EJP1533)
 
- <br>
+**Characteristic polynomial of generalized Ewens random permutations**
+: *Electronic Communications in Probability* (2025).  
+  [DOI](https://doi.org/10.1214/25-ECP746)
 
-##### **Enumeration of crossings in two-step puzzles.**
-
-[ArXiv](http://arxiv.org/abs/2411.08412)
-
- <br>
-
-##### **Positive formula for the product of conjugacy classes on the unitary group.**
-
-Joint work with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr)
-
-[ArXiv](https://arxiv.org/abs/2405.06723)
-
- <br>
-
-##### **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble.** 
-
-Joint work with [David Garcìa-Zelada](https://davidgarciaz.wixsite.com/math)
-
-Published in **The Electronic Journal of Probability**  [DOI](https://doi.org/10.1214/26-EJP1533)
-
- <br>
-
-##### **Power grid segmentation for local topological controllers.** 
-
-Joint work with Noureddine Henka, Sami Tazi, Manuel Ruiz, Patrick Panciatici
-
-Published in Electric Power Systems Research [DOI](https://doi.org/10.1016/j.epsr.2022.108302) 
-
-
+**Power grid segmentation for local topological controllers**
+: with Noureddine Henka, Sami Tazi, Manuel Ruiz, and Patrick Panciatici.  
+  *Electric Power Systems Research* (2022).  
+  [DOI](https://doi.org/10.1016/j.epsr.2022.108302)
  <br>
  <br>
 
