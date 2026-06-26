@@ -45,28 +45,24 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 ### Preprints
 
 **A positive formula for volumes of moduli spaces of flat unitary connections on compact surfaces**
-: with [David García-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index), and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr).  
-  [*arXiv*](https://arxiv.org/abs/2603.20517) (2026).  
+: with [David García-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index), and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr), [*arXiv*](https://arxiv.org/abs/2603.20517) (2026).  
 
 **Enumeration of crossings in two-step puzzles**
   [*arXiv*](https://arxiv.org/abs/2411.08412) (2024). 
 
 **Positive formula for the product of conjugacy classes on the unitary group**
-: with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr).  
-  [*arXiv*](https://arxiv.org/abs/2405.06723) (2024).  
+: with [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr), [*arXiv*](https://arxiv.org/abs/2405.06723) (2024).  
 
 ### Published papers
 
 **Asymptotic analysis of the characteristic polynomial for the Elliptic Ginibre Ensemble**
-: with [David García-Zelada](https://davidgarciaz.wixsite.com/math).  
-  *Electronic Journal of Probability*  [DOI](https://doi.org/10.1214/26-EJP1533) (2026). 
+: with [David García-Zelada](https://davidgarciaz.wixsite.com/math), *Electronic Journal of Probability*  [DOI](https://doi.org/10.1214/26-EJP1533) (2026). 
 
 **Characteristic polynomial of generalized Ewens random permutations**
 : *Electronic Communications in Probability* [DOI](https://doi.org/10.1214/25-ECP746) (2025). 
 
 **Power grid segmentation for local topological controllers**
-: with Noureddine Henka, Sami Tazi, Manuel Ruiz, and Patrick Panciatici.  
-  *Electric Power Systems Research* [DOI](https://doi.org/10.1016/j.epsr.2022.108302) (2022). 
+: with Noureddine Henka, Sami Tazi, Manuel Ruiz, and Patrick Panciatici, *Electric Power Systems Research* [DOI](https://doi.org/10.1016/j.epsr.2022.108302) (2022). 
  <br>
  <br>
 
