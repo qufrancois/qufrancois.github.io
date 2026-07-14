@@ -71,6 +71,14 @@ I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafa�
 
 #### 2026
 
+- [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/#seminars)
+ <br>
+July 14, 2026, Mittag--Leffler Institute, Stockholm, Sweden
+
+- [SigMA Day]
+ <br>
+July 3, 2026, Château de la Fontaine, Villeneuve d’Ascq, France
+
 - [Working group : Point processes and applications](https://math.univ-lille.fr/agenda/groupes-de-travail)
  <br>
 January 27, 2026, Laboratoire Paul-Painlevé, Lille, France
