@@ -17,7 +17,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Postdoctoral researcher in Probability theory under the supervision of [Raphaël Butez](https://sites.google.com/site/rabutez/) and [Rémi Bardenet](https://rbardenet.github.io). I am interested in high dimensional phenomena arising from random matrix theory and exactly solvable models. 
+In September 2026, I will start as a permanent researcher (maître de conférences) at 
+[Institut de mathématiques de Toulouse](https://www.math.univ-toulouse.fr/fr/). 
+
+Previously, I was a postdoctoral researcher under the supervision of [Raphaël Butez](https://sites.google.com/site/rabutez/) and [Rémi Bardenet](https://rbardenet.github.io) at [Laboratoire Paul Painlevé](https://math.univ-lille.fr) and [CRIStAL](https://www.cristal.univ-lille.fr). 
 
 I completed my PhD at Paris-Dauphine PSL under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). You can find the manuscript [here](assets/pdf/these_website.pdf).
 
