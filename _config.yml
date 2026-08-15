@@ -171,6 +171,9 @@ collections:
   enseignement:
     output: true
     permalink: /enseignement/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
