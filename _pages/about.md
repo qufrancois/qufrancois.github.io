@@ -176,26 +176,6 @@ September 21, 2023, Institut Mathématique de Bordeaux, Bordeaux, France.
  <br>
 
 
-### Teaching and Supervision
----
-
-#### 2024-2025
-
-- **Master Thesis supervision:** Limit Theorems for large random matrices, Université Paris-Dauphine. 
-
-- **Introduction aux Probabilités** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
-
-#### 2023-2024
-
-- **Probabilités I** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
-
-- **Processus Discrets** (Master course, Université Paris-Dauphine) Teaching Assistant. 
-
-#### 2022-2023
-
-- **Probabilités I** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
-
-- **Processus Discrets** (Master course, Université Paris-Dauphine). Teaching Assistant. 
 
 
 
