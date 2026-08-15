@@ -7,11 +7,25 @@ nav: true
 nav_order: 2
 ---
 
-### 2022-2023
 
-- **Probabilités I** (L2 Dauphine). Teaching Assistant.
+### Introduction aux Probabilités Maths3-Prob1
 
-- **Processus Discrets** (M1 Dauphine). Teaching Assistant. 
+---
+layout: course
+title: Introduction aux Probabilités
+description: TODO
+year: 2026
+term: Premier semestre
+location: TODO
+time: TODO
+course_id: Maths3-Prob1
+---
 
+## Description
 
+TODO
 
+## Références
+
+- "Python for Data Analysis" by Wes McKinney
+- "Data Science from Scratch" by Joel Grus
