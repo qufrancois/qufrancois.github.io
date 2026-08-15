@@ -7,7 +7,7 @@ first_name: Quentin
 middle_name:
 last_name: François
 email: quentin.francois@dauphine.psl.eu
-description: Quentin François
+description:
 footer_text: 
 keywords: Mathematics, Probability, Research
 
@@ -48,7 +48,7 @@ rss_icon: true
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: true
+footer_fixed: false
 
 # Dimensions
 max_width: 800px

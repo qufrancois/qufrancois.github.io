@@ -26,9 +26,9 @@ nav_order: 2
 
 ---
 
-- **Encadrement de mémoire de M1:** : Théorèmes limites pour matrices aléatoires, Université Paris-Dauphine. 
+- **Encadrement de mémoire de M1** Théorèmes limites pour matrices aléatoires, Université Paris-Dauphine. 
 
-- **Introduction aux Probabilités** : L2, Université Paris-Dauphine, chargé de TD.
+- **Introduction aux Probabilités** L2, Université Paris-Dauphine, chargé de TD.
 
 ## 2023-2024
 

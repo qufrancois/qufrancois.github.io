@@ -23,7 +23,7 @@ nav_order: 3
 
 
 
-- **Master Thesis supervision:** Limit Theorems for large random matrices, Université Paris-Dauphine. 
+- **Master Thesis supervision** Limit Theorems for large random matrices, Université Paris-Dauphine. 
 
 - **Introduction aux Probabilités** (Bachelor course, Université Paris-Dauphine). Teaching Assistant.
 
