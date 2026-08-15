@@ -11,11 +11,12 @@ nav_order: 2
 
 ---
 
-### Introduction aux Probabilités : Maths3-Prob1
+### <span style="color:rgb(36,56,141)">Introduction aux Probabilités</span>
+**`Maths3-Prob1`**
 
-TODO
+> 🚧 *Contenu à venir*
 
-#### Références
+**Références**
 
-- "Python for Data Analysis" by Wes McKinney
-- "Data Science from Scratch" by Joel Grus
+- *Python for Data Analysis* — Wes McKinney
+- *Data Science from Scratch* — Joel Grus
