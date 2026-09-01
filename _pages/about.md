@@ -48,6 +48,10 @@ I completed my PhD at Paris-Dauphine PSL from 2022 to 2025 under the supervision
 
 ### Preprints
 
+**Characteristic polynomial of self-normalized random matrices**
+: with [Johannes Heiny](https://sites.google.com/view/johannes-heiny) and 
+[Xuechun Hu](https://www.kth.se/profile/xuechunh?l=en), [*arXiv*](https://arxiv.org/abs/2608.28169) (2026).  
+
 **A positive formula for volumes of moduli spaces of flat unitary connections on compact surfaces**
 : with [David García-Zelada](https://davidgarciaz.wixsite.com/math), [Thierry Lévy](https://www.lpsm.paris/users/levyt/index), and [Pierre Tarrago](https://tarrago.perso.math.cnrs.fr), [*arXiv*](https://arxiv.org/abs/2603.20517) (2026).  
 
