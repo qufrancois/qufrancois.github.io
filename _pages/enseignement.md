@@ -14,9 +14,8 @@ nav_order: 2
 ### <span style="color:rgb(36,56,141)">Introduction aux Probabilités</span>
 **`Maths2-Prob1`**
 
-> *Contenu à venir*
+> *[Page Moodle](https://moodle.utoulouse.fr/course/view.php?id=188)* 
 
-**Références**
 
 - 
 
