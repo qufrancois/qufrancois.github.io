@@ -27,7 +27,7 @@ I completed my PhD at Paris-Dauphine PSL from 2022 to 2025 under the supervision
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
-**Contact:**  quentin.francois@univ-lille.fr
+**Contact:**  quentin.francois@math.univ-toulouse.fr
 
 <!--
 **Office:** 
