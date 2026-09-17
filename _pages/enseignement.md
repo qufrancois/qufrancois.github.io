@@ -11,15 +11,13 @@ nav_order: 2
 
 ---
 
-### <span style="color:rgb(36,56,141)">Introduction aux Probabilités</span>
-**`Maths2-Prob1`**
+#### <span style="color:rgb(36,56,141)">Introduction aux Probabilités [Maths2-Prob1]</span>
 
-> *[Page Moodle](https://moodle.utoulouse.fr/course/view.php?id=188)* 
+[Page Moodle](https://moodle.utoulouse.fr/course/view.php?id=188)
 
+#### <span style="color:rgb(36,56,141)">Fonctions et calculs 2 [Maths2-Prob1]</span>
 
-- 
-
-
+[Page Moodle](https://moodle.utoulouse.fr/course/view.php?id=244)
 
 ## 2024-2025
 
