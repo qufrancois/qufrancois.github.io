@@ -79,6 +79,14 @@ I completed my PhD at Paris-Dauphine PSL from 2022 to 2025 under the supervision
 
 #### 2026
 
+- [Probability seminar](https://indico.math.cnrs.fr/category/470/)
+ <br>
+September 22, 2026, Institut de Mathématiques de Toulouse
+
+- [Journées MAS](https://mas2026.sciencesconf.org/?lang=fr)
+ <br>
+August 26, 2026, Université Lyon 1
+
 - [Characteristic Polynomials](https://www.mittag-leffler.se/activities/characteristic-polynomials/#seminars)
  <br>
 July 14, 2026, Mittag--Leffler Institute, Stockholm, Sweden
