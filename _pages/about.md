@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Institut de mathématiques de Toulouse
+subtitle: Institut de mathématiques de Toulouse, 1R1 - 214
 
 
 profile:
