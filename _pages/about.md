@@ -18,12 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-In September 2026, I will start as a permanent researcher (maître de conférences) at 
+Since September 2026, I am a permanent researcher (maître de conférences) at 
 [Institut de mathématiques de Toulouse](https://www.math.univ-toulouse.fr/fr/). 
 
 From 2025 to 2026, I was a postdoctoral researcher under the supervision of [Raphaël Butez](https://sites.google.com/site/rabutez/) and [Rémi Bardenet](https://rbardenet.github.io) at [Laboratoire Paul Painlevé](https://math.univ-lille.fr) and [CRIStAL](https://www.cristal.univ-lille.fr). 
 
-I completed my PhD at Paris-Dauphine PSL from 2022 to 2025 under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). You can find the manuscript [here](assets/pdf/these_website.pdf). I am humbled to have been selected by the SMAI as co-laureate of the 2025 Jacques Neveu PhD Award. 
+I completed my PhD at Paris-Dauphine PSL from 2022 to 2025 under the supervision of [Djalil Chafaï](https://djalil.chafai.net/wiki/) and [Pierre Tarrago](http://tarrago.perso.math.cnrs.fr). You can find the manuscript [here](assets/pdf/these_website.pdf). For this PhD thesis, I am humbled to have been selected by the SMAI as co-laureate of the 2025 Jacques Neveu PhD Award. 
 
 **Research Interests:** Random Matrices, Free Probability, Integrable Probability and Algebraic Combinatorics.
 
